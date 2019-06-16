@@ -9,7 +9,7 @@
 #ATCTAC
 #sample2a
 #ATCTAN
-#sample2a
+#sample2b
 #GTCTAN
 
 infilename = raw_input("Enter name of fasta alignment to be made into consensus: ")
