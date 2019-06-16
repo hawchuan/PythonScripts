@@ -5,7 +5,7 @@ Author: Haw Chuan Lim
 Purpose: Extract headers (ie the name after the > symbol) of a multisequence fasta file
 """
 
-fasta1= open('test.fasta', 'r')
+fasta1= open('yourfastafile', 'r')
 
 fasta1out = open('fasta1name.out', 'w')
 
